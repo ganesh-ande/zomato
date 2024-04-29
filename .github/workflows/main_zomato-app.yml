@@ -59,4 +59,4 @@ jobs:
           app-name: 'Zomato-App'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B50259D19374AB9A4ED0B5EB60FCAC9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0EADE9A36D2E4F509CB3698989BD515F }}
